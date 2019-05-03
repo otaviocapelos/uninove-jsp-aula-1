@@ -1,0 +1,20 @@
+div{
+border:5px solid black;
+}
+Body{
+text-align: center;
+font-family:Times New Roman, Times, serif;
+}
+#A{
+background-color:rgba(56,176,222);
+}
+
+#B{
+background-color:rgb(77,77,255);
+}
+#C{
+background-color:rgb(56,176,222);
+}
+#D{
+background-color:rgb(77,77,255);
+}
